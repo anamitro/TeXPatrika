@@ -7,7 +7,7 @@ A TeX template and application compatible with Bengali language-script and the t
 
 This template is part of the project [**TeXচাঁদ**](https://anamitro.github.io/TeXchand). Email anamitroappu@gmail.com for sugestions, feedback or queries.
 
-| <img src="texka2.png" alt="drawing" width="100"/> | |
+| <img src="texka2.png" alt="drawing" width="400"/> | |
 | --- | --- |
 | | **An example** |
 | | **.tex file** |
