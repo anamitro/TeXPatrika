@@ -7,9 +7,8 @@ A TeX template and application compatible with Bengali language-script and the t
 
 This template is part of the project [**TeXচাঁদ**](https://anamitro.github.io/TeXchand). Email anamitroappu@gmail.com for sugestions, feedback or queries.
 
-| ![](texka2.png) | |
+| ![](texka2.png) | **PDF** |
 | --- | --- |
-| | **An example** |
 | | **.tex file** |
 | | **TeXচাঁদ** |
 | |**Anamitro's homepage** |
