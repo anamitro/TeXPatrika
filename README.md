@@ -9,9 +9,9 @@ This template is part of the project [**TeXচাঁদ**](https://anamitro.gith
 
 | ![](texka2.png) | **PDF** |
 | --- | --- |
-| | **.tex file** |
-| | **TeXচাঁদ** |
-| |**Anamitro's homepage** |
+| | [**.tex file**](TeXPatrika_example.pdf) |
+| | [**TeXচাঁদ**](https://anamitro.github.io/TeXchand) |
+| | [**Anamitro's homepage**](https://anamitro.github.io) |
 
 ___
 
